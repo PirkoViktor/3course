@@ -1,0 +1,9 @@
+c:\users\djosa\documents\visual studio 2015\Projects\Simplex Method\Simplex Method\bin\Debug\Simplex Method.exe.config
+c:\users\djosa\documents\visual studio 2015\Projects\Simplex Method\Simplex Method\bin\Debug\Simplex Method.exe
+c:\users\djosa\documents\visual studio 2015\Projects\Simplex Method\Simplex Method\bin\Debug\Simplex Method.pdb
+c:\users\djosa\documents\visual studio 2015\Projects\Simplex Method\Simplex Method\obj\Debug\Simplex Method.csprojResolveAssemblyReference.cache
+c:\users\djosa\documents\visual studio 2015\Projects\Simplex Method\Simplex Method\obj\Debug\Simplex_Method.Form1.resources
+c:\users\djosa\documents\visual studio 2015\Projects\Simplex Method\Simplex Method\obj\Debug\Simplex_Method.Properties.Resources.resources
+c:\users\djosa\documents\visual studio 2015\Projects\Simplex Method\Simplex Method\obj\Debug\Simplex Method.csproj.GenerateResource.Cache
+c:\users\djosa\documents\visual studio 2015\Projects\Simplex Method\Simplex Method\obj\Debug\Simplex Method.exe
+c:\users\djosa\documents\visual studio 2015\Projects\Simplex Method\Simplex Method\obj\Debug\Simplex Method.pdb
