@@ -1,0 +1,10 @@
+D:\IKHI\6 семестр\ДО\lab3Північно-західний-кут\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\IKHI\6 семестр\ДО\lab3Північно-західний-кут\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\IKHI\6 семестр\ДО\lab3Північно-західний-кут\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\IKHI\6 семестр\ДО\lab3Північно-західний-кут\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\IKHI\6 семестр\ДО\lab3Північно-західний-кут\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\djosa\Desktop\lab3Північно-західний-кут\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\djosa\Desktop\lab3Північно-західний-кут\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\djosa\Desktop\lab3Північно-західний-кут\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\djosa\Desktop\lab3Північно-західний-кут\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\djosa\Desktop\lab3Північно-західний-кут\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
